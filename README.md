@@ -1,6 +1,6 @@
 # MemeGenerator
 
-### Создание веб-приложения создания своего мема [Meme Generator](https://memecreate.netlify.app/ "Click me!")
+### Веб-приложение для создания своего мема [Meme Generator](https://memecreate.netlify.app/ "Click me!")
 В процессе прохождения курса по изучению библиотеки React создала данное веб-приложение для закрепления полученных знаний.
 
 ![First screen](https://github.com/Kartiina/MemeGenerator/blob/master/images/screenshots/first.png "first thing we see")
